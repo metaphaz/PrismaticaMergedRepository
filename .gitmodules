@@ -1,0 +1,6 @@
+[submodule "PrismaticaUI"]
+	path = PrismaticaUI
+	url = https://github.com/metaphaz/PrismaticaUI.git
+[submodule "PrisimaticaAPI"]
+	path = PrisimaticaAPI
+	url = https://github.com/metaphaz/PrisimaticaAPI.git
